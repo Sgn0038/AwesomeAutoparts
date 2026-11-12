@@ -1,0 +1,101 @@
+order_id,customer_id,store_id,order_date,payment_method,billing_address,total_amount,card_type,delivery_address
+7001,2214,105,2026-01-05,Credit Card,"5979 Alder Way, Creekside, TX 75022",105.74,Mastercard,"5979 Alder Way, Creekside, TX 75022"
+7003,2124,101,2026-01-06,Credit Card,"5254 Alder Way, Northgate, TX 75021",509.84,American Express,"477 Meadow Run, Lakeview, TX 75024"
+7005,2028,101,2026-01-07,Store Credit,"1931 Cedar Glen, Northgate, TX 75021",187.42,,"1931 Cedar Glen, Northgate, TX 75021"
+7007,2040,105,2026-01-10,Credit Card,"5041 Fox Hollow, Pinecrest, TX 75025",799.21,Visa,"5041 Fox Hollow, Pinecrest, TX 75025"
+7009,2148,105,2026-01-11,Credit Card,"878 Maple Crossing, Northgate, TX 75021",138.58,American Express,"878 Maple Crossing, Northgate, TX 75021"
+7011,2055,105,2026-01-14,Debit Card,"4516 Juniper Lane, Pinecrest, TX 75025",277.03,Visa,"4516 Juniper Lane, Pinecrest, TX 75025"
+7013,2100,103,2026-01-16,Debit Card,"9314 Juniper Lane, Northgate, TX 75021",550.32,Discover,"9314 Juniper Lane, Northgate, TX 75021"
+7015,2121,103,2026-01-21,Credit Card,"8420 Willow Court, Westhaven, TX 75023",1608.06,Visa,"6399 Maple Crossing, Northgate, TX 75021"
+7017,2178,104,2026-01-22,Debit Card,"3369 Copper Ridge Drive, Westhaven, TX 75023",289.75,American Express,"3369 Copper Ridge Drive, Westhaven, TX 75023"
+7019,2070,103,2026-01-24,Credit Card,"6374 Copper Ridge Drive, Creekside, TX 75022",459.38,Mastercard,"6374 Copper Ridge Drive, Creekside, TX 75022"
+7021,2049,103,2026-01-27,Credit Card,"1971 Juniper Lane, Westhaven, TX 75023",373.10,Mastercard,
+7023,2211,102,2026-02-06,Credit Card,"3156 Fox Hollow, Creekside, TX 75022",121.81,Discover,"3156 Fox Hollow, Creekside, TX 75022"
+7025,2262,103,2026-02-13,Debit Card,"6211 Willow Court, Westhaven, TX 75023",1048.81,Mastercard,"6211 Willow Court, Westhaven, TX 75023"
+7027,2277,101,2026-02-14,Debit Card,"6621 Meadow Run, Creekside, TX 75022",219.79,Mastercard,"5518 Juniper Lane, Creekside, TX 75022"
+7029,2220,102,2026-02-18,Debit Card,"9351 Harbor Street, Creekside, TX 75022",192.18,Visa,"9351 Harbor Street, Creekside, TX 75022"
+7031,2034,101,2026-02-22,Cash,"8559 Fox Hollow, Northgate, TX 75021",110.31,,
+7033,2244,101,2026-03-01,Debit Card,"2227 Alder Way, Northgate, TX 75021",192.14,American Express,"2227 Alder Way, Northgate, TX 75021"
+7035,2196,101,2026-03-05,Debit Card,"9661 Cedar Glen, Northgate, TX 75021",241.22,Visa,"9661 Cedar Glen, Northgate, TX 75021"
+7037,2280,104,2026-03-07,Credit Card,"7333 Alder Way, Lakeview, TX 75024",324.09,Mastercard,"7333 Alder Way, Lakeview, TX 75024"
+7039,2283,103,2026-03-08,Debit Card,"1066 Maple Crossing, Northgate, TX 75021",332.44,Mastercard,
+7041,2163,102,2026-03-09,Debit Card,"8990 Juniper Lane, Creekside, TX 75022",375.62,Visa,"8990 Juniper Lane, Creekside, TX 75022"
+7043,2091,104,2026-03-10,Debit Card,"6064 Juniper Lane, Northgate, TX 75021",52.17,Discover,"6064 Juniper Lane, Northgate, TX 75021"
+7045,2136,102,2026-03-13,Cash,"3464 Alder Way, Creekside, TX 75022",141.64,,
+7047,2253,101,2026-03-16,Credit Card,"9745 Fox Hollow, Lakeview, TX 75024",47.98,Visa,
+7049,2133,104,2026-03-17,Store Credit,"8349 Alder Way, Lakeview, TX 75024",451.42,,"8349 Alder Way, Lakeview, TX 75024"
+7051,2028,102,2026-03-18,Store Credit,"1931 Cedar Glen, Northgate, TX 75021",72.09,,"1931 Cedar Glen, Northgate, TX 75021"
+7053,2175,103,2026-03-26,Cash,"9795 Stonebridge Road, Northgate, TX 75021",398.21,,
+7055,2226,101,2026-03-29,Credit Card,"1493 Stonebridge Road, Northgate, TX 75021",199.30,American Express,
+7057,2151,104,2026-04-03,Credit Card,"7472 Willow Court, Lakeview, TX 75024",144.18,American Express,"7472 Willow Court, Lakeview, TX 75024"
+7059,2097,103,2026-04-04,Credit Card,"3579 Harbor Street, Northgate, TX 75021",741.22,Mastercard,"3579 Harbor Street, Northgate, TX 75021"
+7061,2235,105,2026-04-06,Debit Card,"3011 Alder Way, Creekside, TX 75022",275.16,Discover,"3011 Alder Way, Creekside, TX 75022"
+7063,2007,105,2026-04-07,Debit Card,"6301 Alder Way, Pinecrest, TX 75025",595.60,Mastercard,
+7065,2139,101,2026-04-08,Debit Card,"9643 Juniper Lane, Lakeview, TX 75024",548.62,Mastercard,
+7067,2250,105,2026-04-12,Credit Card,"7557 Meadow Run, Lakeview, TX 75024",272.23,Mastercard,"7557 Meadow Run, Lakeview, TX 75024"
+7069,2172,102,2026-04-21,Credit Card,"5734 Alder Way, Creekside, TX 75022",435.77,Mastercard,"5734 Alder Way, Creekside, TX 75022"
+7071,2100,103,2026-04-22,Cash,"9314 Juniper Lane, Northgate, TX 75021",162.59,,
+7073,2127,105,2026-04-25,Credit Card,"2912 Juniper Lane, Pinecrest, TX 75025",420.69,American Express,"2912 Juniper Lane, Pinecrest, TX 75025"
+7075,2292,103,2026-05-04,Credit Card,"5017 Stonebridge Road, Westhaven, TX 75023",269.37,Visa,
+7077,2007,103,2026-05-05,Debit Card,"6301 Alder Way, Pinecrest, TX 75025",95.85,American Express,"6301 Alder Way, Pinecrest, TX 75025"
+7079,2295,103,2026-05-06,Cash,"9392 Meadow Run, Westhaven, TX 75023",70.82,,
+7081,2034,101,2026-05-10,Credit Card,"8559 Fox Hollow, Northgate, TX 75021",81.05,Visa,"8559 Fox Hollow, Northgate, TX 75021"
+7083,2103,105,2026-05-14,Credit Card,"5548 Cedar Glen, Westhaven, TX 75023",75.16,Mastercard,
+7085,2133,103,2026-05-15,Credit Card,"8349 Alder Way, Lakeview, TX 75024",1396.07,American Express,"8136 Cedar Glen, Lakeview, TX 75024"
+7087,2241,103,2026-05-16,Debit Card,"5671 Juniper Lane, Westhaven, TX 75023",33.12,Mastercard,"5671 Juniper Lane, Westhaven, TX 75023"
+7089,2061,103,2026-05-27,Credit Card,"1503 Maple Crossing, Westhaven, TX 75023",314.55,American Express,"1503 Maple Crossing, Westhaven, TX 75023"
+7091,2091,104,2026-05-30,Debit Card,"6064 Juniper Lane, Northgate, TX 75021",963.09,Discover,"6064 Juniper Lane, Northgate, TX 75021"
+7093,2004,105,2026-06-02,Credit Card,"2469 Fox Hollow, Pinecrest, TX 75025",286.20,Visa,"3424 Fox Hollow, Pinecrest, TX 75025"
+7095,2112,104,2026-06-03,Debit Card,"7373 Cedar Glen, Lakeview, TX 75024",459.88,Mastercard,"7373 Cedar Glen, Lakeview, TX 75024"
+7097,2133,104,2026-06-04,Debit Card,"8349 Alder Way, Lakeview, TX 75024",133.09,American Express,
+7099,2175,105,2026-06-05,Debit Card,"9795 Stonebridge Road, Northgate, TX 75021",143.68,Visa,
+7101,2121,103,2026-06-07,Credit Card,"8420 Willow Court, Westhaven, TX 75023",378.46,American Express,
+7103,2031,103,2026-06-16,Debit Card,"3869 Alder Way, Westhaven, TX 75023",578.81,Visa,"3869 Alder Way, Westhaven, TX 75023"
+7105,2214,102,2026-06-17,Credit Card,"5979 Alder Way, Creekside, TX 75022",214.59,Visa,"5979 Alder Way, Creekside, TX 75022"
+7107,2112,105,2026-06-18,Credit Card,"7373 Cedar Glen, Lakeview, TX 75024",669.73,American Express,"7373 Cedar Glen, Lakeview, TX 75024"
+7109,2094,101,2026-06-24,Credit Card,"6328 Copper Ridge Drive, Westhaven, TX 75023",193.99,Visa,"6328 Copper Ridge Drive, Westhaven, TX 75023"
+7111,2289,101,2026-06-29,Debit Card,"8310 Meadow Run, Creekside, TX 75022",87.90,Discover,"3902 Stonebridge Road, Northgate, TX 75021"
+7113,2016,102,2026-07-01,Debit Card,"4703 Harbor Street, Creekside, TX 75022",296.83,Discover,"4703 Harbor Street, Creekside, TX 75022"
+7115,2055,105,2026-07-03,Credit Card,"4516 Juniper Lane, Pinecrest, TX 75025",172.46,Visa,"4516 Juniper Lane, Pinecrest, TX 75025"
+7117,2283,103,2026-07-11,Debit Card,"1066 Maple Crossing, Northgate, TX 75021",458.02,Mastercard,"1066 Maple Crossing, Northgate, TX 75021"
+7119,2157,101,2026-07-12,Store Credit,"7510 Maple Crossing, Westhaven, TX 75023",45.59,,"7510 Maple Crossing, Westhaven, TX 75023"
+7121,2214,102,2026-07-13,Debit Card,"5979 Alder Way, Creekside, TX 75022",45.98,Discover,"5979 Alder Way, Creekside, TX 75022"
+7123,2163,102,2026-07-14,Cash,"8990 Juniper Lane, Creekside, TX 75022",107.20,,
+7125,2100,103,2026-07-15,Store Credit,"9314 Juniper Lane, Northgate, TX 75021",192.83,,
+7127,2259,105,2026-07-23,Debit Card,"247 Cedar Glen, Pinecrest, TX 75025",812.58,American Express,
+7129,2157,102,2026-07-25,Debit Card,"7510 Maple Crossing, Westhaven, TX 75023",310.58,Visa,"7510 Maple Crossing, Westhaven, TX 75023"
+7131,2010,104,2026-07-26,Credit Card,"6541 Copper Ridge Drive, Lakeview, TX 75024",241.72,Mastercard,
+7133,2196,101,2026-07-30,Debit Card,"9661 Cedar Glen, Northgate, TX 75021",406.40,American Express,"9661 Cedar Glen, Northgate, TX 75021"
+7135,2151,104,2026-08-10,Debit Card,"7472 Willow Court, Lakeview, TX 75024",42.09,Discover,
+7137,2112,103,2026-08-11,Debit Card,"7373 Cedar Glen, Lakeview, TX 75024",325.79,Discover,"7373 Cedar Glen, Lakeview, TX 75024"
+7139,2022,104,2026-08-12,Debit Card,"3726 Copper Ridge Drive, Westhaven, TX 75023",77.82,Visa,"3726 Copper Ridge Drive, Westhaven, TX 75023"
+7141,2103,105,2026-08-13,Credit Card,"5548 Cedar Glen, Westhaven, TX 75023",177.02,American Express,
+7143,2007,105,2026-08-14,Debit Card,"6301 Alder Way, Pinecrest, TX 75025",22.99,American Express,
+7145,2019,101,2026-08-15,Debit Card,"2746 Copper Ridge Drive, Northgate, TX 75021",133.09,American Express,"2746 Copper Ridge Drive, Northgate, TX 75021"
+7147,2109,104,2026-08-16,Debit Card,"2856 Cedar Glen, Lakeview, TX 75024",357.34,American Express,"2856 Cedar Glen, Lakeview, TX 75024"
+7149,2283,105,2026-08-17,Credit Card,"1066 Maple Crossing, Northgate, TX 75021",231.17,Discover,"1066 Maple Crossing, Northgate, TX 75021"
+7151,2283,103,2026-08-18,Cash,"1066 Maple Crossing, Northgate, TX 75021",806.61,,
+7153,2136,103,2026-08-20,Credit Card,"3464 Alder Way, Creekside, TX 75022",283.54,Discover,"3464 Alder Way, Creekside, TX 75022"
+7155,2067,103,2026-08-27,Store Credit,"7868 Cedar Glen, Westhaven, TX 75023",30.50,,"7868 Cedar Glen, Westhaven, TX 75023"
+7157,2286,103,2026-09-02,Store Credit,"9627 Copper Ridge Drive, Westhaven, TX 75023",159.33,,"3314 Willow Court, Northgate, TX 75021"
+7159,2016,105,2026-09-05,Credit Card,"4703 Harbor Street, Creekside, TX 75022",461.26,Visa,"4703 Harbor Street, Creekside, TX 75022"
+7161,2289,102,2026-09-06,Credit Card,"8310 Meadow Run, Creekside, TX 75022",79.13,Discover,
+7163,2286,103,2026-09-14,Credit Card,"9627 Copper Ridge Drive, Westhaven, TX 75023",353.01,Visa,"9627 Copper Ridge Drive, Westhaven, TX 75023"
+7165,2028,103,2026-09-17,Cash,"1931 Cedar Glen, Northgate, TX 75021",664.34,,
+7167,2103,105,2026-09-18,Debit Card,"5548 Cedar Glen, Westhaven, TX 75023",386.29,Visa,"5548 Cedar Glen, Westhaven, TX 75023"
+7169,2130,103,2026-09-19,Debit Card,"8472 Stonebridge Road, Westhaven, TX 75023",237.99,Discover,"8472 Stonebridge Road, Westhaven, TX 75023"
+7171,2016,102,2026-09-20,Credit Card,"4703 Harbor Street, Creekside, TX 75022",55.42,Mastercard,
+7173,2265,102,2026-09-21,Debit Card,"7881 Maple Crossing, Creekside, TX 75022",90.81,American Express,
+7175,2220,102,2026-09-23,Credit Card,"9351 Harbor Street, Creekside, TX 75022",118.15,American Express,
+7177,2040,102,2026-09-24,Debit Card,"5041 Fox Hollow, Pinecrest, TX 75025",602.25,Discover,"5041 Fox Hollow, Pinecrest, TX 75025"
+7179,2133,104,2026-09-25,Cash,"8349 Alder Way, Lakeview, TX 75024",99.21,,
+7181,2280,104,2026-09-30,Debit Card,"7333 Alder Way, Lakeview, TX 75024",271.51,Discover,"7333 Alder Way, Lakeview, TX 75024"
+7183,2145,105,2026-10-04,Debit Card,"5836 Copper Ridge Drive, Pinecrest, TX 75025",305.17,American Express,"5836 Copper Ridge Drive, Pinecrest, TX 75025"
+7185,2043,103,2026-10-05,Store Credit,"9341 Juniper Lane, Westhaven, TX 75023",410.52,,
+7187,2220,102,2026-10-06,Credit Card,"9351 Harbor Street, Creekside, TX 75022",206.05,Visa,"9351 Harbor Street, Creekside, TX 75022"
+7189,2244,103,2026-10-07,Debit Card,"2227 Alder Way, Northgate, TX 75021",23.32,American Express,"2227 Alder Way, Northgate, TX 75021"
+7191,2157,102,2026-10-14,Credit Card,"7510 Maple Crossing, Westhaven, TX 75023",611.89,American Express,"7510 Maple Crossing, Westhaven, TX 75023"
+7193,2190,102,2026-10-15,Cash,"2411 Cedar Glen, Creekside, TX 75022",75.80,,
+7195,2262,103,2026-10-18,Debit Card,"6211 Willow Court, Westhaven, TX 75023",159.88,Mastercard,"3017 Harbor Street, Westhaven, TX 75023"
+7197,2094,103,2026-10-19,Debit Card,"6328 Copper Ridge Drive, Westhaven, TX 75023",213.59,Mastercard,"6328 Copper Ridge Drive, Westhaven, TX 75023"
+7199,2142,103,2026-10-22,Credit Card,"2451 Maple Crossing, Westhaven, TX 75023",202.18,Visa,"2451 Maple Crossing, Westhaven, TX 75023"

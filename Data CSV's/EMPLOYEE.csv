@@ -1,0 +1,21 @@
+employee_id,store_id,name,email,phone,department,role,username,password_hash,hire_date
+501,101,Daniel Garcia,daniel.garcia.staff@example.test,555-031-1425,Sales,Sales Associate,daniel.garcia.staff,2b871cc3b57d75d1171a5d9e4270fc914a4c20da425845d40b39cd4d9bddfa60,2018-11-26
+503,101,Keira Reed,keira.reed.staff@example.test,555-031-6552,Inventory,Inventory Specialist,keira.reed.staff,a62f7d3ed106e0b53244480de0ea39900880b05e7273806e7b6cf0fa9349906e,2019-12-22
+505,101,Samir Evans,samir.evans.staff@example.test,555-031-3058,Service,Parts Advisor,samir.evans.staff,8a517a60849dc7336f6cfa7975a9bad8b96e91d72e076010aa74c0866fe4a107,2020-02-07
+507,101,Abigail Rivera,abigail.rivera.staff@example.test,555-031-9176,Management,Store Manager,abigail.rivera.staff,16da488b68f37cc505f38a53d9903036a3ab94e3b486ac6387003019e4f295db,2020-03-15
+509,102,Isaac Kim,isaac.kim.staff@example.test,555-032-6624,Sales,Sales Associate,isaac.kim.staff,f8219bd76c9102670276b6a526c7183ef0c22d0b065750c448d303d7d36e9db8,2020-05-12
+511,102,Priya Walker,priya.walker.staff@example.test,555-032-5414,Inventory,Inventory Specialist,priya.walker.staff,35af94f4c94ed3d0495758d515ef74d8e1f4483c9a0631cee7b92aac97aba917,2020-07-20
+513,102,Felix Jackson,felix.jackson.staff@example.test,555-032-8363,Service,Parts Advisor,felix.jackson.staff,25f1bcc01e6d9afbbe5ee82ee8f8a02a7c669ca78baceae2a5f8d7c6f530b307,2020-10-05
+515,102,Maya Delgado,maya.delgado.staff@example.test,555-032-3858,Management,Store Manager,maya.delgado.staff,cd044516e6c03b0274d3765cea8f91acc662060d2b0fa4ad1336864c80aea199,2021-02-18
+517,103,Victor Owens,victor.owens.staff@example.test,555-033-5861,Sales,Sales Associate,victor.owens.staff,f7c2c35812b462ed3a495a2365702c4dd44e1a761260a1942d2f7d9c46248b51,2021-10-09
+519,103,Diana Brooks,diana.brooks.staff@example.test,555-033-1708,Inventory,Inventory Specialist,diana.brooks.staff,36aac3a770995da29826e3691fbf5dd26d30206c4a4d6b81c9a73dc171064804,2023-06-15
+521,103,Kai Nelson,kai.nelson.staff@example.test,555-033-6091,Service,Parts Advisor,kai.nelson.staff,5fb0b2f7819a6b177e59c3e92020602feadc2eab5c9cca565712b0010ce1b041,2023-10-11
+523,103,Amelia Hayes,amelia.hayes.staff@example.test,555-033-4008,Management,Store Manager,amelia.hayes.staff,be62908f1b12184722604d394a4d3e239b3d2a1a966025ddcfa4ecbbbbf0579f,2023-11-23
+525,104,Henry Sullivan,henry.sullivan.staff@example.test,555-034-2919,Sales,Sales Associate,henry.sullivan.staff,cbe589ba14fa04b7ac02435a5371e0daeb07ed3cd424b86d1f603ce0cc7ebb7b,2023-12-27
+527,104,Olivia Flores,olivia.flores.staff@example.test,555-034-5375,Inventory,Inventory Specialist,olivia.flores.staff,7ec7ace76c4d7f7ba4f49b670314134b41b966604d1e32cb41823ee935721092,2024-05-26
+529,104,Xavier Shah,xavier.shah.staff@example.test,555-034-2654,Service,Parts Advisor,xavier.shah.staff,8f5b1904c093ff73b6ca3143694d3cb78a4de1ab3f7325df31db739ba8aac10f,2024-12-13
+531,104,Farah Lopez,farah.lopez.staff@example.test,555-034-9207,Management,Store Manager,farah.lopez.staff,2e6d10968dfa95aa0dc10f1cf8daacbdce0e62be87b2e7069c2e6a7682b49be8,2025-04-05
+533,105,Mateo Xu,mateo.xu.staff@example.test,555-035-7054,Sales,Sales Associate,mateo.xu.staff,871001d084e7cf00938d9a93fba835cfe25c955beb84ee46664eae522b6f9dde,2025-04-13
+535,105,Camila Khan,camila.khan.staff@example.test,555-035-8653,Inventory,Inventory Specialist,camila.khan.staff,dc6c9fbdf0971cd5d8611cb0ee9fcf2d45f77e83a4312d54de62c211af8677ef,2025-08-07
+537,105,Julian Ellis,julian.ellis.staff@example.test,555-035-7376,Service,Parts Advisor,julian.ellis.staff,73bafa0e85d254100bddf0e4c5e885a8233d60b9b07b0f7ab835920d4d53d3c4,2025-09-29
+539,105,Rosa Patel,rosa.patel.staff@example.test,555-035-5509,Management,Store Manager,rosa.patel.staff,17426d6418cd04d78a8c6bdd6dc9a53833cc1ecbf2f22163a8d7f74b3f923923,2026-01-27

@@ -1,0 +1,13 @@
+STORE,EMPLOYEE,CUSTOMER,PART,INVENTORY,CUSTOMER_ORDER,ORDER_ITEM,PURCHASE_ORDER,PO_LINE
+store_id,employee_id,customer_id,part_number,store_id,order_id,order_id,po_id,po_id
+name,store_id,name,name,part_number,customer_id,part_number,store_id,part_number
+address,name,email,brand,quantity,store_id,quantity,employee_id,quantity
+phone,department,phone,category,reorder_level,order_date,unit_price,supplier_name,unit_cost
+,role,address,condition,,payment_method,,order_date,
+,username,preferred_store_id,price,,billing_address,,expected_date,
+,password_hash,car_make,description,,total_amount,,,
+,hire_date,car_model,,,card_type,,,
+,,car_year,,,delivery_address,,,
+,,username,,,,,,
+,,password_hash,,,,,,
+,,created_at,,,,,,

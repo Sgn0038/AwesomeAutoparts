@@ -1,0 +1,36 @@
+po_id,store_id,employee_id,supplier_name,order_date,expected_date
+9001,102,511,Brackenridge Parts Co.,2026-01-04,2026-01-12
+9004,101,505,Brackenridge Parts Co.,2026-01-12,2026-01-20
+9007,104,525,Northstar Motor Supply,2026-01-18,2026-01-24
+9010,102,509,Brackenridge Parts Co.,2026-01-24,2026-01-27
+9013,102,511,Juniper Industrial Auto,2026-01-25,2026-02-01
+9016,105,539,Brackenridge Parts Co.,2026-01-29,2026-02-05
+9019,102,509,Brackenridge Parts Co.,2026-01-30,2026-02-06
+9022,103,517,Northstar Motor Supply,2026-02-05,2026-02-11
+9025,101,503,Pioneer Valley Parts,2026-02-10,2026-02-14
+9028,105,535,Cobalt Creek Wholesale,2026-03-01,2026-03-06
+9031,103,517,Brackenridge Parts Co.,2026-03-02,2026-03-07
+9034,104,525,Redfern Automotive Supply,2026-03-04,2026-03-11
+9037,102,509,Westmark Components,2026-03-24,2026-03-29
+9040,102,509,Brackenridge Parts Co.,2026-04-12,2026-04-17
+9043,101,501,Cobalt Creek Wholesale,2026-04-20,2026-04-25
+9046,101,501,Northstar Motor Supply,2026-04-22,2026-04-27
+9049,103,517,Westmark Components,2026-04-23,2026-05-02
+9052,102,511,Pioneer Valley Parts,2026-04-29,2026-05-03
+9055,102,511,Pioneer Valley Parts,2026-05-02,2026-05-09
+9058,104,529,Cobalt Creek Wholesale,2026-05-21,2026-05-29
+9061,104,529,Brackenridge Parts Co.,2026-05-23,2026-05-30
+9064,105,533,Blue Heron Distribution,2026-06-04,2026-06-07
+9067,101,507,Westmark Components,2026-06-10,2026-06-17
+9070,104,529,Brackenridge Parts Co.,2026-06-11,2026-06-18
+9073,101,503,Brackenridge Parts Co.,2026-06-14,2026-06-21
+9076,104,529,Northstar Motor Supply,2026-06-20,2026-06-27
+9079,102,515,Redfern Automotive Supply,2026-06-26,2026-06-30
+9082,104,525,Cobalt Creek Wholesale,2026-07-17,2026-07-19
+9085,104,529,Cobalt Creek Wholesale,2026-07-18,2026-07-21
+9088,102,509,Blue Heron Distribution,2026-07-20,2026-07-26
+9091,104,529,Cobalt Creek Wholesale,2026-07-26,2026-07-29
+9094,103,519,Westmark Components,2026-08-19,2026-08-23
+9097,102,511,Cobalt Creek Wholesale,2026-08-20,2026-08-27
+9100,101,507,Redfern Automotive Supply,2026-08-26,2026-09-02
+9103,101,505,Brackenridge Parts Co.,2026-10-09,2026-10-13
