@@ -3,3 +3,4 @@
 *.db
 *.docx
 *.pdf
+__pycache__/
