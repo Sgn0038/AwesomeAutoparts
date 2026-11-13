@@ -1,6 +1,6 @@
 ## Introduction
 This is a project for CSCE 4350, presenting an auto parts store and interfacing database system. The code for the backend can be found in this repo, and the website can be found here:
-[!INSERT WEBSITE LINK]
+>[!INSERT WEBSITE LINK]
 
 ## Running the demo locally
 The Flask API (`api/`) serves both the JSON endpoints under `/api` and the demo website (`web/`) at `/`.
@@ -21,5 +21,5 @@ Both sign-in screens include a demo shortcut that loads a sample account without
 
 ## Credits
 Backend python scripts and database construction: Sean Neely
-Website design: Cooper [LASTNAME]
+Website design: Cooper [[LASTNAME]]
 Frontend code: Mason ~~Stone~~ Liley
